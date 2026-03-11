@@ -12,8 +12,6 @@ Computer Science student at FCSE (FINKI)
 
 ![](https://github-profile-trophy.vercel.app/?username=andrejgruevski&theme=darkhub)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=andrejgruevski&theme=react-dark)
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student)
 
-[![](https://visitcount.itsvg.in/api?id=andrejgruevski&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=andrejgruevski&color=blue)
