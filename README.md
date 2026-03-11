@@ -1,5 +1,7 @@
 
-Computer Science student at FCSE (FINKI) 
+<p align="center">
+<b>Computer Science student at FCSE (FINKI)</b>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrej-gruevski-876501269/) 
 
