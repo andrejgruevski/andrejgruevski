@@ -1,8 +1,6 @@
 
 **Computer Science student at FCSE (FINKI)**
 
-**Computer Science student at FCSE (FINKI)**
-
 <table width="100%">
 <tr>
 <td align="left">
