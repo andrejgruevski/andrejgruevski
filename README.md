@@ -4,6 +4,7 @@
 <p align="right">
   <img src="https://img.shields.io/badge/currently-online-success?style=flat">
 </p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrej-gruevski-876501269/) 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=andrejgruevski&theme=dark&hide_border=false)
