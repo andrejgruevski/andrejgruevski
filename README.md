@@ -1,11 +1,22 @@
 
 **Computer Science student at FCSE (FINKI)**
 
-<p align="right">
-  <img src="https://img.shields.io/badge/currently-online-success?style=flat">
-</p>
+**Computer Science student at FCSE (FINKI)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrej-gruevski-876501269/) 
+<table width="100%">
+<tr>
+<td align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrej-gruevski-876501269/)
+
+</td>
+<td align="right">
+
+![status](https://img.shields.io/badge/currently-online-success?style=flat)
+
+</td>
+</tr>
+</table>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=andrejgruevski&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejgruevski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
